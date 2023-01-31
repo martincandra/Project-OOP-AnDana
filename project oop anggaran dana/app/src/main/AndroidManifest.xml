@@ -16,10 +16,6 @@
         <activity android:name=".searchdata" />
         <activity android:name=".change_password" />
         <activity android:name=".Profile" />
-        <activity
-            android:name=".feedback"
-            android:label="@string/title_activity_feedback"
-            android:theme="@style/Theme.MyApplication.NoActionBar" />
         <activity android:name=".about" />
         <activity android:name=".first_home_page" />
         <activity android:name=".resetpassword" />
